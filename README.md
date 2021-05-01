@@ -8,4 +8,4 @@
 
 Want **Github Stats** for yourself? Click [here](https://github.com/anuraghazra/github-readme-stats) or paste this into your browser: https://github.com/anuraghazra/github-readme-stats  
 
-<iframe src="https://discord.com/widget?id=720103393192050689&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/api/guilds/720103393192050689/widget.json
